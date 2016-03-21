@@ -1,3 +1,3 @@
 # prms-ui
 
-Sanctumprms prms web front end
+Sanctum prms web front end
