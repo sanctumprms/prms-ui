@@ -1,0 +1,32 @@
+{
+    "node": true,
+    "curly": false,
+    "eqnull": true,
+    "eqeqeq": true,
+    "undef": true,
+    "trailing": true,
+    "jquery": true,
+    "browser": true,
+    "devel": true,
+    "maxparams":20,
+    "maxdepth": 3,
+
+    "globals": {
+        "jQuery": false,
+        "angular": false,
+        "CDN": false,
+        "Modernizr": false,
+        "CryptoJS": false,
+        "core": false,
+        "Swiper": false,
+        "env": false,
+        "googletag": false,
+        // GruntFile
+        "module": false,
+        "require": false,
+        "middlewares": false,
+        "inject": false,
+        // Protractor
+        "browser": false
+    }
+}
