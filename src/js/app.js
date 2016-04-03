@@ -1,9 +1,11 @@
 angular.module('prms', [
     'ngTouch',
-    'app.config',
-    'app.pages'
+    'prms.config',
+    'prms.pages',
+    'prms.navigation',
+    'prms.footer'
 ]);
 
-angular.module('app.pages', [
-    'app.pageComponents.login'
+angular.module('prms.pages', [
+    'prms.pageComponents.home'
 ]);

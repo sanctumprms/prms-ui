@@ -1,0 +1,20 @@
+<header class="main-header clearfix ">
+
+    <section class="brand pull-left">
+        <h1>Sanctum</h1><sub>*</sub>
+    </section>
+
+    <nav class="nav pull-right">
+        <ul class="menu disp-inline">
+            <li ng-class="{'selected': menu.selected}" ng-click="selectMenu(menuNavigation, menu)" ng-repeat="menu in menuNavigation.main">
+                <a href="{{menu.url}}">{{menu.name}}</a>
+            </li>
+        </ul>
+        <aside class="user-nav disp-inline">
+            <ul>
+                <li  ng-click="selectMenu(menuNavigation, userMenu)" ng-repeat="userMenu in menuNavigation.user"><a ng-class="{'selected': userMenu.selected}" ng-href="{{userMenu.url}}"><i  class="{{userMenu.class}}"></i></a></li>
+            </ul>
+        </aside>
+    </nav>
+
+</header>

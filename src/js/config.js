@@ -1,4 +1,4 @@
-angular.module('app.config', [
+angular.module('prms.config', [
     'ui.router'
 ])
 .config(['$stateProvider', '$sceProvider', '$urlRouterProvider',
@@ -10,13 +10,13 @@ angular.module('app.config', [
         $locationProvider.html5Mode({ enabled: true, requireBase: false });
 
         $stateProvider
-            .state('login', {
-                url: '/login',
-                template: '<login></login>'
+            .state('home', {
+                url: '/',
+                template: '<home></home>'
             });
 
 
-        $urlRouterProvider.otherwise('/login');
+        $urlRouterProvider.otherwise('/');
 
         $sceProvider.enabled(false);
 

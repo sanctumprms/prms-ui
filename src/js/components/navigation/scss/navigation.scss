@@ -1,0 +1,51 @@
+.main-header{
+  background: #f5f5f5;
+  padding: 22px 28px 0 22px;
+  a{color: inherit; }
+  .brand{
+    display: inline-block;
+    font-family: 'Lobster', cursive;
+    color: #ad680f;
+    h1{
+      display: inline-block;
+      margin: 0;
+      padding: 0;
+    }
+    sub{
+      display: inline-block;
+      font-size: 24px;
+    }
+  }
+  .nav{
+    display: inline-block;
+  }
+  .menu{
+
+    li{
+      padding: 10px 20px 20px;
+      cursor: pointer;
+      font-size: 16px;
+      color: #a2a2a2;
+      font-family: 'PT Serif', serif;
+    }
+    .selected{
+      border-bottom: 2px solid #ad680f;
+      color: #ad680f;
+    }
+  }
+  .user-nav{
+    ul{
+      li{
+        color: #a2a2a2;
+        cursor: pointer;
+        a{
+          padding: 20px 10px;
+        }
+      }
+      .selected {
+          border-bottom: 2px solid #ad680f;
+          color: #ad680f;
+      }
+    }
+  }
+}

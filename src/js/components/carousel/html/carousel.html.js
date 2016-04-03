@@ -1,0 +1,4 @@
+angular.module("js/components/carousel/html/carousel.html", []).run(["$templateCache", function($templateCache) {
+  $templateCache.put("js/components/carousel/html/carousel.html",
+    "<div id=\"carousel\" class=\"carousel slide\" data-ride=\"carousel\"><ol class=\"carousel-indicators\"><li data-target=\"#carousel\" data-slide-to=\"0\" class=\"active\"></li><li data-target=\"#carousel\" data-slide-to=\"1\"></li><li data-target=\"#carousel\" data-slide-to=\"2\"></li></ol><div class=\"carousel-inner\" role=\"listbox\"><div class=\"item active\"><img src=\"js/components/carousel/imgs/header-b1.png\"><div class=\"carousel-caption\"></div></div><div class=\"item\"><img src=\"js/components/carousel/imgs/header-b1.png\"><div class=\"carousel-caption\"></div></div><div class=\"item\"><img src=\"js/components/carousel/imgs/header-b1.png\"><div class=\"carousel-caption\"></div></div></div></div>");
+}]);

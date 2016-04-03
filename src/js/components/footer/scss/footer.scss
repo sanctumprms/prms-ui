@@ -1,0 +1,33 @@
+.footer{
+  background: #1e1e1e;
+  .end-footer{
+    background: #000;
+    padding: 20px 16px 40px 16px;
+    font-family: 'PT Serif', serif;
+    color: #4c4c4c;
+    font-size: 14px;
+  }
+  .footer-content{
+    padding: 46px 16px;
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+    .title{
+      font-size: 16px;
+    }
+    .large-icn{
+      font-size: 30px;
+      li{
+        margin-right: 10px;
+      }
+    }
+    .awards-desc{
+      font-family: "Lato", sans-serif;
+      color: #555555;
+      font-weight: 18px;
+    }
+    .location{
+      height: 200px;
+      width: 300px;
+    }
+  }
+}
