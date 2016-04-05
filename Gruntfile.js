@@ -17,7 +17,7 @@ module.exports = function (grunt) {
 
         githooks: {
             all: {
-                'pre-commit': 'jscs',
+                'pre-commit': 'scsslint jscs',
                 'post-merge': 'githooks'
             }
         },
@@ -347,10 +347,11 @@ module.exports = function (grunt) {
     require('jit-grunt')(grunt, {
         replace: 'grunt-text-replace',
         useminPrepare: 'grunt-usemin',
+        scsslint: 'grunt-scss-lint',
         ngconstant: 'grunt-ng-constant'
     });
 
-    grunt.registerTask('default', ['clean:preBuild', 'bower-install-simple:dev', 'css', 'ngconstant', 'js', 'html', 'concurrent']);
+    grunt.registerTask('default', ['githooks', 'clean:preBuild', 'bower-install-simple:dev', 'css', 'ngconstant', 'js', 'html', 'concurrent']);
 
     grunt.registerTask('css', ['clean:scss', 'compass:dev', 'autoprefixer']);
 

@@ -1,0 +1,25 @@
+<section class="room-list-card">
+    <a href="#/rooms/show/{{obj.id}}" class="thumbnail">
+        <img ng-src="{{obj.bgurl}}" alt="rbg">
+    </a>
+    <h4 class="room-title">{{obj.name}}</h4>
+    <p class="room-desc">
+        <p class="disp-inline" ng-repeat="feature in obj.features">{{feature}}&nbsp</p>
+    </p>
+    <div class="clearfix rate">
+        <div class="pull-left new-rate">
+            <span class="symbol">$</span>
+            <i class="currency">{{obj.rate}}</i>
+            <span class="unit">/{{obj.unit}}</span>
+        </div>
+        <div class="pull-right old-rate">${{obj.oldprice}}/{{obj.unit}}</div>
+    </div>
+    <div class="clearfix margin-top-20">
+        <div class="pull-left see-more-details">
+            <a><i>See more details</i></a>&nbsp;<i class="fa fa-arrow-right"></i>
+        </div>
+        <div class="pull-right">
+            <button type="button" class="btn btn-thm-1 btn-xs">Book this</button>
+        </div>
+    </div>
+</section>

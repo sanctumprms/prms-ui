@@ -13,8 +13,11 @@ angular.module('prms.config', [
             .state('home', {
                 url: '/',
                 template: '<home></home>'
+            })
+            .state('rooms', {
+                url: '/rooms',
+                template: '<rooms></rooms>'
             });
-
 
         $urlRouterProvider.otherwise('/');
 

@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id":5,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 12,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Junior suite - Single bed",
+        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "rate": "90.00",
+        "unit": "Night",
+        "oldprice": "$110.00",
+        "features": [
+            "1Circularbed",
+            "Maximum2people",
+            "Area89Sq.Ft.",
+            "WiFiavailable",
+            "breakfastin."
+        ]
+    }
+]

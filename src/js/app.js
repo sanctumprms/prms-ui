@@ -7,5 +7,6 @@ angular.module('prms', [
 ]);
 
 angular.module('prms.pages', [
-    'prms.pageComponents.home'
+    'prms.pageComponents.home',
+    'prms.pageComponents.rooms'
 ]);

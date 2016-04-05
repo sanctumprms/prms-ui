@@ -52,7 +52,7 @@ angular.module('prms.navigation', [
         }, {
             name: 'Rooms',
             key:'rooms',
-            url:'/rooms/index',
+            url:'/rooms',
             selected: false
         }, {
             name: 'Restaurant',

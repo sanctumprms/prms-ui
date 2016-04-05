@@ -1,0 +1,23 @@
+.rooms-sec-menu{
+  background-color: #f2f2f2;
+  padding: 60px;
+  color: #999999;
+  font-size: 14px;
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+  ul{
+    li{
+      padding: 0 20px;
+      width: 149px;
+      vertical-align: middle;
+      height: 46px;
+      cursor: pointer;
+    }
+  }
+  .menu-border{
+    border-left: 2px solid #e2e2e2;
+  }
+  .selected{
+    color: #ad680f;
+  }
+}

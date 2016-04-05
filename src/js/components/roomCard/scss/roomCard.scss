@@ -1,0 +1,44 @@
+.room-list-card{
+  margin-bottom: 60px;
+  .room-title{
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+    color: #ad680f;
+  }
+  .room-desc{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: #808080;
+  }
+  .see-more-details{
+    color: #ad680f;
+    a{text-decoration: none;color: #ad680f;cursor: pointer}
+    font-size: 14px;
+  }
+  .rate{
+    .new-rate{
+      .symbol{
+        font-size: 30px;
+        font-weight: bold;
+        color: #3a3a3a;
+        font-family: 'Playfair Display', serif;
+      }
+      .currency{
+        font-size: 30px;
+        font-weight: bold;
+        color: #3a3a3a;
+        font-family: 'Playfair Display', serif;
+      }
+      .unit{
+        font-size: 14px;
+        color: #3a3a3a;
+      }
+    }
+    .old-rate{
+      font-size: 16px;
+      color: #cbcbcb;
+      margin-top: 18px;
+      text-decoration: line-through;
+    }
+  }
+}
