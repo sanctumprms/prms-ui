@@ -1,0 +1,133 @@
+.about{
+  .about-header{
+    img{
+      width: 100%;
+    }
+  }
+  .details{
+    .sub{
+      .sub-title{
+        font-family: Lato,sans-serif;
+        color: #555555;
+        font-size: 16px;
+      }
+      .sub-dec{
+        font-size: 14px;
+      }
+    }
+    .dec{
+      font-family: 'PT Serif', serif;
+      font-size: 20px;
+      color: #5b5b5b;
+    }
+  }
+  .y-u-choose{
+    .title{
+      text-align: center;
+      font-family: 'PT Serif', serif;
+      font-size: 40px;
+      color: #555555;
+      margin-bottom: 40px;
+    }
+    .reason{
+      font-family: "Lato", sans-serif;
+      .reason-title{
+        font-size: 50px;
+        color: #555555;
+        font-weight: 100;
+      }
+      .sub-title{
+        font-size: 18px;
+      }
+      .info{
+        font-size: 12px;
+      }
+    }
+  }
+  .testimonials{
+    font-family: 'PT Serif', serif;
+    background: #f2f2f2;
+    padding: 60px 10px;
+    .testimonial-title{
+      font-size: 40px;
+      color: #555555;
+      padding-bottom: 60px;
+
+    }
+    .info{
+      font-size: 18px;
+      color: #555555;
+    }
+    .user{
+      img{
+        border-radius: 50%;
+        width: 70px;
+        height: 70px;
+      }
+      .name{
+        font-size: 26px;
+        font-style: italic;
+        color: #818181;
+      }
+    }
+
+  }
+  .title-sap{
+    padding: 60px 120px 45px 120px;
+    .line-sap{
+      width: 100%;
+      border-bottom: 2px solid #e6e6e6;
+    }
+    .line-title{
+      font-family: Lato,sans-serif;
+      font-size: 16px;
+      margin-top: -14px;
+      background: #fff;
+      display: inline-block;
+      vertical-align: top;
+      padding: 0 10px;
+    }
+  }
+  .amenities{
+    ul{
+      list-style-type: square;
+      li{
+        font-family: "Lato", sans-serif;
+        list-style-type: square;
+        display: list-item;
+        color: #555555;
+        font-size: 16px;
+      }
+    }
+  }
+  .accessibility{
+    font-family: "Lato", sans-serif;
+    .tran-title{
+      font-size: 16px;
+      font-weight: bold;
+      color: #555555;
+    }
+    .tran-dec{
+      font-size: 12px;
+      color: #999999;
+    }
+  }
+  .places{
+    font-family: "Lato", sans-serif;
+    .place-title{
+      font-weight: bold;
+      color: #555555;
+      font-size: 16px;
+    }
+    .distance{
+      font-size: 12px;
+      font-weight: 400;
+      color: #999999;
+    }
+    .info{
+      font-size: 12px;
+      color: #999999;
+      font-weight: 200;
+    }
+  }
+}

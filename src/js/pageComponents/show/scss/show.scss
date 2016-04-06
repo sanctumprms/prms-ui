@@ -1,0 +1,65 @@
+.room{
+  .title{
+    color: #373737;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+  }
+  .price{
+    .cost{
+      font-size: 30px;
+      font-weight: bold;
+      color: #3a3a3a;
+      font-family: 'Playfair Display', serif;
+    }
+    .unit{
+      font-size: 14px;
+      color: #3a3a3a;
+    }
+  }
+  .avilability-check{
+    padding: 18px 0;
+    border-bottom: 1px solid #e5e5e5;
+    border-top:1px solid #e5e5e5;
+    a{
+      color: #ad680f;
+      font-size: 16px;
+      font-family: 'Lato', sans-serif;
+      cursor: pointer;
+    }
+  }
+  .features{
+    padding: 10px 0;
+    font-family: 'Lato', sans-serif;
+    color: #555555;
+    font-size: 16px;
+    ul{
+      list-style-type: square;
+      padding: 0 34px;
+      li{
+        list-style-type: square;
+        display: list-item;
+      }
+    }
+  }
+  .room-desc{
+    font-family: 'Lato', sans-serif;
+    font-size: 14px;
+    color: #666666;
+    margin: 40px 0;
+  }
+  .similar-rooms{
+    font-family: 'Lato', sans-serif;
+    .title{
+      color: #555555;
+      font-size: 16px;
+    }
+    .see-all{
+      color: #ad680f;
+      font-size: 14px;
+      cursor: pointer;
+      a{color: inherit;font-size: inherit;}
+    }
+  }
+}

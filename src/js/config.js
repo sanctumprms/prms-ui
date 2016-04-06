@@ -17,6 +17,18 @@ angular.module('prms.config', [
             .state('rooms', {
                 url: '/rooms',
                 template: '<rooms></rooms>'
+            })
+            .state('show', {
+                url: '/rooms/show/:id',
+                template: '<show></show>'
+            })
+            .state('about', {
+                url: '/about',
+                template: '<about></about>'
+            })
+            .state('profile', {
+                url: '/profile',
+                template: '<profile></profile>'
             });
 
         $urlRouterProvider.otherwise('/');

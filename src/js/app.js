@@ -8,5 +8,8 @@ angular.module('prms', [
 
 angular.module('prms.pages', [
     'prms.pageComponents.home',
-    'prms.pageComponents.rooms'
+    'prms.pageComponents.rooms',
+    'prms.pageComponents.show',
+    'prms.pageComponents.about',
+    'prms.pageComponents.profile'
 ]);

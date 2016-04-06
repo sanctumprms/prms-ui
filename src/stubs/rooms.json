@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -17,7 +17,7 @@
     {
         "id": 2,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -32,7 +32,7 @@
     {
         "id": 3,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -47,7 +47,7 @@
     {
         "id": 4,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -62,7 +62,7 @@
     {
         "id":5,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -77,7 +77,7 @@
     {
         "id": 6,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -92,7 +92,7 @@
     {
         "id": 7,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -107,7 +107,7 @@
     {
         "id": 8,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -122,7 +122,7 @@
     {
         "id": 9,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -137,7 +137,7 @@
     {
         "id": 10,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -152,7 +152,7 @@
     {
         "id": 11,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -167,7 +167,7 @@
     {
         "id": 12,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -182,7 +182,7 @@
     {
         "id": 13,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -197,7 +197,7 @@
     {
         "id": 14,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -212,7 +212,7 @@
     {
         "id": 15,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -227,7 +227,7 @@
     {
         "id": 16,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -242,7 +242,7 @@
     {
         "id": 17,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -257,7 +257,7 @@
     {
         "id": 18,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -272,7 +272,7 @@
     {
         "id": 19,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",
@@ -287,7 +287,7 @@
     {
         "id": 20,
         "name": "Junior suite - Single bed",
-        "bgurl": "js/components/roomCard/imgs/room1.png",
+        "bgurl": "/js/components/roomCard/imgs/room1.png",
         "rate": "90.00",
         "unit": "Night",
         "oldprice": "$110.00",

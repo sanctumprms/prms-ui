@@ -1,0 +1,52 @@
+.profile{
+  .profile-header{
+    background-image: url('/js/pageComponents/profile/imgs/profilebanner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: Lato, sans-serif;
+    h2{
+      margin: 0;
+      padding: 66px 0;
+      color: #555555;
+      font-family: Lato, sans-serif;
+    }
+  }
+  .profile{
+    text-align: center;
+    margin-top: -100px;
+    .user{
+      border-radius: 50%;
+      height: 200px;
+      width: 200px;
+    }
+    .about{
+      color: #808080;
+      margin-bottom: 40px;
+    }
+    .actions{
+      margin-top: 10px;
+      display: block;
+      color: #ad895b;
+      font-size: 14px;
+      cursor: pointer;
+    }
+  }
+  .details{
+    margin-bottom: 80px;
+    h3{
+      font-size: 16px;
+      color: #555555;
+      text-transform: uppercase;
+      font-weight: bold;
+    }
+    .title{
+      font-size: 12px;
+      color: #999999;
+    }
+    .desc{
+      font-size: 16px;
+      color: #555555;
+    }
+  }
+}
